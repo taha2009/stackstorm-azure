@@ -1,5 +1,6 @@
 azurerm==0.8.27
 azure-mgmt==0.30.0a1
+azure-graphrbac
 msrestazure
 azure<5.0
 apache-libcloud<3.0.0
